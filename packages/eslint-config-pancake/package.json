@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap/eslint-config-pancake",
+  "name": "@emevinefinance/eslint-config-emevine",
   "version": "1.2.0",
   "description": "Eslint config for PancakeSwap",
   "main": "lib/index.js",
